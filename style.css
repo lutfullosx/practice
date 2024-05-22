@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+/* Bu h1 header degani */
+h1{
+    font-size: 30px;
+    font-family:  'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.birinchi{
+    font-size: 45px;
+}
+
+.ikkinchi{
+    font-size: 60px;
+}
+
+.div, section{
+    height: 100vh;
+    padding: 150px;
+}
+
+#top{
+    background-color: antiquewhite;
+}
+
+#bottom{
+    background-color: burlywood;
+}
